@@ -1,0 +1,5 @@
+package mvp
+
+class UsersPresenter {
+
+}
